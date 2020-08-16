@@ -8,7 +8,7 @@ Replicated the model in [A Stochastic-Volatility Model for Pricing Power Variant
 
 Bitcoin trading data is gathered from [Advanced model calibration on bitcoin options, Dilip B. Madan · Sofie Reyners · Wim Schoutens, Digital Finance (2019)](https://link.springer.com/article/10.1007/s42521-019-00002-1)
 
-Main summary of the report available (Report)[https://github.com/LeonCaesa/Bitcoin-Pricing/blob/master/780_Group_Project__Own_.pdf]
+Main summary of the report available (Report)(https://github.com/LeonCaesa/Bitcoin-Pricing/blob/master/780_Group_Project__Own_.pdf)
 
 
 
